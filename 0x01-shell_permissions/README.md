@@ -1,1 +1,1 @@
-For the Shell Permissions project
+The Shell Permissions project directory
